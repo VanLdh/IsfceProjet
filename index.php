@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo'texte ';
+        include('./vues/vue_presentation.php');
         ?>
     </body>
 </html>
